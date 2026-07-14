@@ -1,6 +1,7 @@
 <h1 align="center"> Unstarify </h1>
-
-<img src="Images\Screenshot.png" alt="App Screenshot" style=" margin-left: auto; margin-right: auto; border-radius: 3%;">
+<p align="center">
+  <img src="Images/Screenshot.png" alt="App Screenshot" width="700">
+</p>
 
 <div align="center">
 
