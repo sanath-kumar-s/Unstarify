@@ -319,7 +319,7 @@ Contributions are welcome! To get started:
 ## ❓ FAQ
 
 **Q: Is my GitHub token stored securely?**
-A: By default, tokens are stored in plain text in `config.json`. For added security, we recommend using environment variables or OS-level credential storage.
+A: By default, tokens are stored in text in `config.json` locally in your system. So there are no external threats.
 
 **Q: Can I use this with GitHub Enterprise?**
 A: Currently, the app is designed for GitHub.com. Enterprise support can be added with minor modifications.
